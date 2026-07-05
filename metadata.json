@@ -1,0 +1,6 @@
+{
+  "name": "Shipping Dashboard",
+  "description": "A full-stack shipment tracking and administration dashboard with secure credential verification and history logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,32 @@
+{
+  "shipments": [
+    {
+      "id": "4d8f1cb3-5b97-4f25-8135-582bf6e7a19e",
+      "trackingId": "TRK-2026-GWJC",
+      "origin": "us market",
+      "destination": "kuje",
+      "carrierService": "by air",
+      "status": "Delivered",
+      "statusHistory": [
+        {
+          "status": "In Transit",
+          "timestamp": "2026-07-02T18:06:43.554Z"
+        },
+        {
+          "status": "Out for Delivery",
+          "timestamp": "2026-07-02T18:11:32.614Z"
+        },
+        {
+          "status": "Out for Delivery",
+          "timestamp": "2026-07-02T18:11:42.339Z"
+        },
+        {
+          "status": "Delivered",
+          "timestamp": "2026-07-02T18:13:02.921Z"
+        }
+      ],
+      "createdAt": "2026-07-02T18:06:43.554+00:00",
+      "updatedAt": "2026-07-02T18:13:02.921+00:00"
+    }
+  ]
+}
